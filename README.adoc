@@ -1,0 +1,3 @@
+= RecyclerView Code
+
+This repository stores the static RecyclerView with CardView example.
